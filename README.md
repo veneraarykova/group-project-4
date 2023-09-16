@@ -244,3 +244,9 @@ your changes (replace `filename` with the actual filename or use `.` to stage al
 10 *Check Your Repository:
  Go to your GitHub repository on the web, and you should see your code
 
+Venera - 8 hours
+Rano -8 hours
+Aidana - 8 hours
+Darya - 8 hours
+We had 3 times group meetings via Zoom.
+We had a great time working together on project 4
